@@ -31,12 +31,12 @@ export const homeConfig = {
 // 图片放在 public/images 中，建议是正方形，否则影响视觉体验
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
-  { key: 'q', name: '化妆品', alias: 'Dior双飞', image: '/images/1.png',  description: '「经典迷人色彩，彰显奢华魅力」' },
-  { key: 'w', name: '腾讯视频终身VIP', alias: 'VIP', image: '/images/2.png',  description: '“为你承包一辈子的 VIP”' },
-  { key: 'e', name: '兰蔻小黑瓶套装', alias: '小黑瓶套装', image: '/images/3.png',  description: '「强维稳，快修护」' },
-  { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想给你唱一百首情歌”' },
-  { key: 't', name: 'ipad', alias: 'IPAD', image: '/images/5.png',  description: '「满足你的需求」' },
-  { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
-  { key: 'u', name: '电脑', alias: 'UR', image: '/images/7.png',  description: '“UR！买！”' },
-  { key: 'i', name: '手机', alias: '戴森', image: '/images/8.png',  description: '「不同造型需求，全面满足」' },
+  { key: 'q', name: '化妆品', alias: '化妆品', image: '/images/1.png',  description: '「给你也不会用啊」' },
+  { key: 'w', name: '辣条大礼包', alias: '辣条', image: '/images/latiao.png',  description: '“辣你一辈子”' },
+  { key: 'e', name: '兰蔻小黑瓶套装', alias: '小黑瓶套装', image: '/images/3.png',  description: '「豆豆快遮不住了」' },
+  { key: 'r', name: '52红包', alias: '52', image: '/images/6.png',  description: '“好想打你”' },
+  { key: 't', name: '一顿大餐', alias: '大餐', image: '/images/chi.png',  description: '「吃死你」' },
+  { key: 'y', name: 'ipad', alias: 'ipad', image: '/images/ipad.png',  description: '“下辈子再见”' },
+  { key: 'u', name: '电脑', alias: '电脑', image: '/images/conputer.png',  description: '“再说卡打死你”' },
+  { key: 'i', name: '手机', alias: '戴森', image: '/images/phone.png',  description: '「回复再慢，就打死」' },
 ];
